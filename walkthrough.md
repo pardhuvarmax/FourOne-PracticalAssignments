@@ -13,6 +13,7 @@ Here is the clean directory separation we implemented in the workspace:
   * [utils/__init__.py](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/utils/__init__.py) - Package initialization.
   * [utils/llm.py](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/utils/llm.py) - Centralized Gemini API client supporting text generation, JSON outputs, embeddings, and a local agent fallback.
   * [utils/tui.py](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/utils/tui.py) - Interactive zero-dependency TUI selection menu utility with arrow-key navigation.
+  * [utils/README.md](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/utils/README.md) - Documentation for the utilities library.
 * [task_1_llm_workflow/](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/task_1_llm_workflow/)
   * [task_1_llm_workflow/main.py](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/task_1_llm_workflow/main.py) - Interactive LLM chat loop.
   * [task_1_llm_workflow/README.md](file:///home/sicmundus/Desktop/Dev/FourOne-PracticalAssignments/task_1_llm_workflow/README.md) - Documentation for Task 1.
