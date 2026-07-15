@@ -12,3 +12,9 @@ Agentic AI Assignment 1 :
 4. RAG-Based Question Answering (5 Marks): Develop a basic RAG application that retrieves relevant information from a PDF/TXT document and answers user queries using an LLM.
 
 Submission Deadline : 20-07-26, Monday. 
+
+--------------------------------------------------------------------------
+
+How to Run:
+Simply execute the unified TUI launcher script:
+$ ./run.sh
