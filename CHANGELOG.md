@@ -11,6 +11,7 @@ All notable changes to the practical assignments codebase are documented here.
 - **Local Agent Fallback Pipeline**: Implemented auto-detection of rate limits (429 errors) in `utils/llm.py` and `task_3_agentic_ai/agent.py`. It falls back to a local agent loop that parses user note inputs dynamically using regex and executes the tools.
 - **Legendary AI/ML Papers**: Downloaded five standard research papers (Transformer, ResNet, BERT, Adam, and LoRA) to `task_4_rag_qa/documents/` for testing RAG.
 - **Smart File Picker**: Enabled dynamic workspace file picker menus in the launcher and the RAG main CLI.
+- **Utilities Documentation**: Added a dedicated `utils/README.md` file to document helper models and TUI selectors.
 
 ### Removed
 - Removed the placeholder `sample.txt` file from the workspace.
